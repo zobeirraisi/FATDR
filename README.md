@@ -17,7 +17,9 @@ Download the Train and Test set of FATR dataset from the following link uploaded
 
 ### How to cite?
 APA: Raisi, Z. , Nazarzehi Had, V. M. , Sarani, E. and Damani, R. (2025). FATR: A Comprehensive Dataset and Evaluation Framework for Persian Text Recognition in Wild Images. Journal of Electrical and Computer Engineering Innovations (JECEI), (), 331-340. doi: 10.22061/jecei.2024.11256.784
+
 BibTex:
+
 `@article {
 author = {Raisi, Z. and Nazarzehi Had, V. and Sarani, E. and Damani, R.},
 title = {FATR: A Comprehensive Dataset and Evaluation Framework for Persian Text Recognition in Wild Images},
